@@ -9,4 +9,4 @@ function ProfileEmail({ onChange }) {
     );
 }
 
-export default ProfileEmail;
+export default ProfileEmail; 
